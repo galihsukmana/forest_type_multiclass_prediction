@@ -18,7 +18,7 @@ The model was trained using a labeled dataset called cov_type.csv. This dataset 
 
 ## Installation
 To run this project locally, please follow these steps:
-1. Clone this repository: `git clone git@github.com:galihsukmana/forest_cover_type.git`
+1. Clone this repository: `git clone git@github.com:galihsukmana/forest_type_multiclass_prediction.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
